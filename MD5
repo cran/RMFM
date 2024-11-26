@@ -1,0 +1,13 @@
+33c35d6a6b2e9aa201b6081b94a9fb69 *DESCRIPTION
+6fbb65098811a8a1ea7b2abd7dbecdba *NAMESPACE
+aeefc714dcde224caf0826af2e1282b4 *R/RcppExports.R
+ebb6010abad565fbbef22e321fdf69b8 *R/gendata_rmfm.R
+b6a19851f90774388e29b5a323f9f5f0 *R/main.R
+ad11347f3ab6d3dda0c819ab995c9974 *R/zzz.R
+56304d02ecfea789f3f22a2bf4076966 *man/ER.RMFM.Rd
+e727e17b61af5c2c4f73669c0f2b9a02 *man/RMFM.Rd
+8c86c3ec9f139e3e2d5927a463e276c6 *man/gendata_rmfm.Rd
+e62585629948e7dd143efbad43c2a6eb *src/Makevars
+e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
+4c9032b7003b69415741d4dcfa3d2eec *src/RcppExports.cpp
+63c8d40b4317f24da5e03c89b5a057df *src/tlmfm.cpp
